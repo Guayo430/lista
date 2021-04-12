@@ -1,0 +1,83 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: A&E" tvg-logo="https://sc.dish.com/shared/images/station-logos/a&e.png" group-title="Latino",Latino: A&E
+http://unlockyourtv.com:8000/live/Luis/Luis/1259.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Animal Planet" tvg-logo="" group-title="Latino",Latino - Animal Planet
+http://unlockyourtv.com:8000/live/Luis/Luis/2414.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Latino",Latino: AXN
+http://unlockyourtv.com:8000/live/Luis/Luis/1379.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Cartoon Network" tvg-logo="" group-title="Latino",Latino - Cartoon Network
+http://unlockyourtv.com:8000/live/Luis/Luis/2418.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Latino",Latino: Comedy Central
+http://unlockyourtv.com:8000/live/Luis/Luis/1385.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Cine Canal" tvg-logo="" group-title="Latino",Latino - Cine Canal
+http://unlockyourtv.com:8000/live/Luis/Luis/2419.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - CineLatino" tvg-logo="" group-title="Latino",Latino - CineLatino
+http://unlockyourtv.com:8000/live/Luis/Luis/2420.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Cinemax" tvg-logo="" group-title="Latino",Latino - Cinemax
+http://unlockyourtv.com:8000/live/Luis/Luis/2421.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Depelicula" tvg-logo="" group-title="Latino",Latino - Depelicula
+http://unlockyourtv.com:8000/live/Luis/Luis/2422.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery Channel" tvg-logo="" group-title="Latino",Latino - Discovery Channel
+http://unlockyourtv.com:8000/live/Luis/Luis/2423.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery Familia" tvg-logo="" group-title="Latino",Latino - Discovery Familia
+http://unlockyourtv.com:8000/live/Luis/Luis/2424.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery HH" tvg-logo="" group-title="Latino",Latino - Discovery HH
+http://unlockyourtv.com:8000/live/Luis/Luis/2425.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery ID" tvg-logo="" group-title="Latino",Latino - Discovery ID
+http://unlockyourtv.com:8000/live/Luis/Luis/2426.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery Kids" tvg-logo="" group-title="Latino",Latino - Discovery Kids
+http://unlockyourtv.com:8000/live/Luis/Luis/2427.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery Science" tvg-logo="" group-title="Latino",Latino - Discovery Science
+http://unlockyourtv.com:8000/live/Luis/Luis/2428.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery Theater" tvg-logo="" group-title="Latino",Latino - Discovery Theater
+http://unlockyourtv.com:8000/live/Luis/Luis/2429.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery Turbo" tvg-logo="" group-title="Latino",Latino - Discovery Turbo
+http://unlockyourtv.com:8000/live/Luis/Luis/2430.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Discovery World" tvg-logo="" group-title="Latino",Latino - Discovery World
+http://unlockyourtv.com:8000/live/Luis/Luis/2431.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Disney Channel" tvg-logo="" group-title="Latino",Latino - Disney Channel
+http://unlockyourtv.com:8000/live/Luis/Luis/2432.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Disney Jr." tvg-logo="" group-title="Latino",Latino - Disney Jr.
+http://unlockyourtv.com:8000/live/Luis/Luis/2433.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Disney XD" tvg-logo="" group-title="Latino",Latino - Disney XD
+http://unlockyourtv.com:8000/live/Luis/Luis/2434.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Latino",Latino: Distrito Comedia
+http://unlockyourtv.com:8000/live/Luis/Luis/1495.ts.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Fox" tvg-logo="http://4.bp.blogspot.com/-qC_ng6HEgfg/VGuNvjqDDXI/AAAAAAABj1A/qCROBxNROD8/s1600/fox.jpg" group-title="Latino",Latino: Fox
+http://unlockyourtv.com:8000/live/Luis/Luis/1483.ts.m3u8
+
+#EXTINF:-1 tvg-ID="foxdeportes.us" tvg-name="Latino: Fox Deportes" tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="Latino",Latino: Fox Deportes
+http://unlockyourtv.com:8000/live/Luis/Luis/1183.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Fox Life" tvg-logo="" group-title="Latino",Latino - Fox Life
+http://unlockyourtv.com:8000/live/Luis/Luis/2441.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: Fox Premium Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="Latino",Latino: Fox Premium Movies
+http://unlockyourtv.com:8000/live/Luis/Luis/1486.ts.m3u8
